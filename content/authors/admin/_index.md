@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr
+title: Dr Olakunle Abawonse
 
 # Full name (for SEO)
 first_name: Olakunle S
